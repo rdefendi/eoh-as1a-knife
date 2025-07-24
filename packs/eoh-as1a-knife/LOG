@@ -1,0 +1,8 @@
+2025/07/23-11:29:02.188 1fbc Recovering log #56
+2025/07/23-11:29:02.286 1fbc Delete type=0 #56
+2025/07/23-11:29:02.286 1fbc Delete type=3 #55
+2025/07/24-11:51:46.701 150c Level-0 table #60: started
+2025/07/24-11:51:46.702 150c Level-0 table #60: 0 bytes OK
+2025/07/24-11:51:46.758 150c Delete type=0 #58
+2025/07/24-11:51:46.808 150c Manual compaction at level-0 from '!adventures!EKfscCSZ95AZZ2PQ' @ 72057594037927935 : 1 .. '!adventures!EKfscCSZ95AZZ2PQ' @ 0 : 0; will stop at (end)
+2025/07/24-11:51:46.809 150c Manual compaction at level-1 from '!adventures!EKfscCSZ95AZZ2PQ' @ 72057594037927935 : 1 .. '!adventures!EKfscCSZ95AZZ2PQ' @ 0 : 0; will stop at (end)
